@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a57f801-362d-4527-941b-03019e900fd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/rsvp_ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/rsvp_ui/public/favicon.ico" afterDir="false" />
@@ -28,7 +29,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="3" />
           <entry key="html" value="3" />
           <entry key="js" value="6" />
           <entry key="py" value="2" />
@@ -39,13 +40,13 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="3" />
           <entry key="JavaScript" value="6" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="21" />
+          <entry key="gitignore" value="55" />
           <entry key="html" value="5" />
           <entry key="js" value="2106" />
           <entry key="py" value="66" />
@@ -55,7 +56,7 @@
         <counts>
           <entry key="HTML" value="5" />
           <entry key="JavaScript" value="2106" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="PLAIN_TEXT" value="55" />
           <entry key="Python" value="66" />
         </counts>
       </usages-collector>
@@ -89,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Guest.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -97,6 +98,15 @@
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -122,7 +132,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend_react/rsvp_ui" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,12 +142,12 @@
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.css" />
         <option value="$PROJECT_DIR$/rsvp/rsvp/settings.py" />
         <option value="$PROJECT_DIR$/rsvp/rsvp/urls.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/Counter.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/GuestName.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/GuestList.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/Guest.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -198,13 +208,6 @@
               <item name="frontend_react" type="462c0819:PsiDirectoryNode" />
               <item name="rsvp_ui" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rsvp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rsvp" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend_react" type="462c0819:PsiDirectoryNode" />
-              <item name="rsvp_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -257,15 +260,9 @@
     <frame x="2" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.2227913" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290653" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -273,11 +270,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2227913" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,13 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Counter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -372,6 +368,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Guest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -379,6 +378,13 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
