@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a57f801-362d-4527-941b-03019e900fd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/rsvp_ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/rsvp_ui/package.json" afterDir="false" />
@@ -11,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rsvp/rsvp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rsvp/rsvp/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +30,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
-          <entry key="gitignore" value="4" />
+          <entry key="gitignore" value="5" />
           <entry key="html" value="3" />
           <entry key="js" value="7" />
           <entry key="py" value="4" />
@@ -41,23 +41,23 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="3" />
           <entry key="JavaScript" value="7" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="55" />
+          <entry key="gitignore" value="59" />
           <entry key="html" value="5" />
-          <entry key="js" value="3425" />
+          <entry key="js" value="3984" />
           <entry key="py" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="5" />
-          <entry key="JavaScript" value="3425" />
-          <entry key="PLAIN_TEXT" value="55" />
+          <entry key="JavaScript" value="3984" />
+          <entry key="PLAIN_TEXT" value="59" />
           <entry key="Python" value="94" />
         </counts>
       </usages-collector>
@@ -67,14 +67,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="90" column="3" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+            <state relative-caret-position="540">
+              <caret line="140" column="50" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="50" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -94,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/GuestList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+            <state relative-caret-position="93">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -103,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Guest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="453">
+              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -146,13 +155,13 @@
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/public/index.html" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.css" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/GuestName.js" />
-        <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/Guest.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/GuestList.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/Counter.js" />
         <option value="$PROJECT_DIR$/rsvp/rsvp/settings.py" />
         <option value="$PROJECT_DIR$/rsvp/rsvp/urls.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js" />
+        <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/GuestList.js" />
+        <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/Guest.js" />
       </list>
     </option>
   </component>
@@ -201,6 +210,24 @@
             <path>
               <item name="rsvp" type="b2602c69:ProjectViewProjectNode" />
               <item name="rsvp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rsvp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rsvp" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend_react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rsvp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rsvp" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend_react" type="462c0819:PsiDirectoryNode" />
+              <item name="rsvp_ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rsvp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rsvp" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend_react" type="462c0819:PsiDirectoryNode" />
+              <item name="rsvp_ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rsvp" type="b2602c69:ProjectViewProjectNode" />
@@ -346,13 +373,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Counter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -363,10 +383,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="140" column="50" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/GuestList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="93">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -375,20 +412,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Guest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="453">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="90" column="3" lean-forward="true" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>

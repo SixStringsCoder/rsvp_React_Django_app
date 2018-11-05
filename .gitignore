@@ -8,8 +8,8 @@ node_modules/
 
 # testing
 coverage/
-frontend_react/rsvp_ui/images
-frontend_react/rsvp_ui/node_modules
+frontend_react/rsvp_ui/src/images
+
 
 # production
 build/
