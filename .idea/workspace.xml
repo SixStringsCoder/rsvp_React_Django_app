@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a57f801-362d-4527-941b-03019e900fd6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/rsvp_ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/rsvp_ui/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend_react/rsvp_ui/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/rsvp_ui/public/favicon.ico" afterDir="false" />
@@ -31,7 +32,7 @@
           <entry key="css" value="2" />
           <entry key="gitignore" value="5" />
           <entry key="html" value="3" />
-          <entry key="js" value="20" />
+          <entry key="js" value="23" />
           <entry key="py" value="4" />
         </counts>
       </usages-collector>
@@ -39,7 +40,7 @@
         <counts>
           <entry key="CSS" value="2" />
           <entry key="HTML" value="3" />
-          <entry key="JavaScript" value="20" />
+          <entry key="JavaScript" value="23" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Python" value="4" />
         </counts>
@@ -48,14 +49,14 @@
         <counts>
           <entry key="gitignore" value="60" />
           <entry key="html" value="5" />
-          <entry key="js" value="4998" />
+          <entry key="js" value="5277" />
           <entry key="py" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="5" />
-          <entry key="JavaScript" value="4998" />
+          <entry key="JavaScript" value="5277" />
           <entry key="PLAIN_TEXT" value="60" />
           <entry key="Python" value="94" />
         </counts>
@@ -66,11 +67,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="79" column="6" lean-forward="true" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="240">
+              <caret line="18" column="73" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -78,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/Guest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="221">
+              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -111,6 +124,8 @@
       <find>console.log</find>
       <find>newGuestSubmitHandler</find>
       <find>handleInputText</find>
+      <find>id</find>
+      <find>At</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,9 +152,11 @@
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/Header/Header.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/MainContent.js" />
-        <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/GuestList.js" />
         <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/PendingGuest.js" />
+        <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/Guest.js" />
+        <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/index.js" />
+        <option value="$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js" />
       </list>
     </option>
   </component>
@@ -253,15 +270,15 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/frontend_react/rsvp_ui/src" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList" />
       <recent name="$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent" />
       <recent name="$PROJECT_DIR$/frontend_react/rsvp_ui/src" />
       <recent name="$PROJECT_DIR$/frontend_react/rsvp_ui/src/Header" />
       <recent name="$PROJECT_DIR$/rsvp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend_react/rsvp_ui/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -407,28 +424,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Header/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -452,30 +452,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Header/GuestInputForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/PendingGuest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/Header/GuestInputForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -494,10 +494,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/Guest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="221">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/MainContent/GuestList/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="73" selection-start-line="18" selection-start-column="73" selection-end-line="18" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend_react/rsvp_ui/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="79" column="6" lean-forward="true" selection-start-line="79" selection-start-column="6" selection-end-line="79" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
