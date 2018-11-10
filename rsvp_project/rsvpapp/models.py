@@ -11,4 +11,4 @@ class Guest(models.Model):
 
     def __str__(self):
         """Represents model object as Guest name in Admin area"""
-        return self.guest_namels
+        return self.guest_name
